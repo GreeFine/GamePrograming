@@ -1,2 +1,2 @@
 # GamePrograming
-Mineralz Game for CSUSM
+Thug of magic wars Game for CSUSM Game for CSUSM
